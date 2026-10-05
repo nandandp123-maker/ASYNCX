@@ -1,0 +1,6 @@
+{
+  "name": "Pavitram — Sacred Pooja & Spiritual Essentials",
+  "description": "Artisanal brass puja items, sacred samagri kits, pure fragrances, and Vedic spiritual accessories with secure payment checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
